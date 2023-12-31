@@ -1,0 +1,4 @@
+https://learn.sparkfun.com/tutorials/easy-driver-hook-up-guide/all
+
+https://www.engineersgarage.com/nodemcu-esp8266-stepper-motor-interfacing/
+
